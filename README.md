@@ -11,9 +11,15 @@ You will need to set your domain as a authorized referrer in your Marvel Develop
 
 All time stamping is simply set to 1
 
+The GET is for characters?name=Spider-Man but you can adjust this as you see fit.
+
+Use your keys and parameters and time stamps as you like
+
 GET calls language samples so far
 ================
 
 PHP
 
 Ruby
+
+Python
