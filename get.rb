@@ -33,8 +33,6 @@ hash = ts.concat(marvel_private_key)
 hash = hash.concat(marvel_api_key)
 
 digest = Digest::MD5.hexdigest(hash)
-puts digest
-
 
 
 #Build the rest of the url string for this call
@@ -49,4 +47,4 @@ resp_text = resp.body
 
 #the reposnse. should look like the docs at developers.marvel
 
-print resp_text
+puts resp_text
