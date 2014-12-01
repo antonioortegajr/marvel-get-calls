@@ -7,9 +7,13 @@ These will all be GETs
 
 You will need a Marvel Developers account to get API and Private Keys
 
-You will need to set your domain as a authorized referrer in your Mavel Developers account
+You will need to set your domain as a authorized referrer in your Marvel Developers account
 
-calls language examples so far
+All time stamping is simply set to 1
+
+GET calls language samples so far
 ================
 
 PHP
+
+Ruby
