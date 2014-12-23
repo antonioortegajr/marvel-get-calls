@@ -3,7 +3,7 @@ marvel-get-calls
 
 A collection of simple GET calls for the Marvel API in varying languages
 
-These will all be GETs
+These will all be GETs using cURL
 
 You will need a Marvel Developers account to get API and Private Keys
 
