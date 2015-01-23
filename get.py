@@ -3,7 +3,7 @@ import urllib2
 import hashlib
 
 gate = 'http://gateway.marvel.com/v1/public/'
-#Parameters change as you see fit. I picked charachter and Spidey
+#Parameters change as you see fit. I picked characters and Spidey
 param = "characters?name=Spider-Man"
 #replace with your key from developers.marvel
 apikey ='YOURKEY123'
