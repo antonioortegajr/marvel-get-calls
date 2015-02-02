@@ -1,7 +1,7 @@
 marvel-get-calls
 ================
 
-A collection of simple GET calls for the Marvel API in varying languages
+A collection of simple GET calls for the Marvel API in varying languages. I started this because I often find no examples or a whole library to call. Nothing inbetween. SO here are example calls.
 
 These will all be GETs using cURL
 
