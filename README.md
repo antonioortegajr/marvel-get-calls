@@ -15,6 +15,8 @@ The GET is for characters?name=Spider-Man but you can adjust this as you see fit
 
 Use your keys and parameters and time stamps as you like.
 
+My Wiki https://github.com/antonioortegajr/marvel-get-calls/wiki
+
 Marvel Developers http://developer.marvel.com/
 
 GET calls language samples so far
