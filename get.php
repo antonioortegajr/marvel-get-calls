@@ -31,7 +31,7 @@ $httpcode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
 
 curl_close($ch);
 
-//dump the reposnse. should look like the docs at developers.marvel
+//dump the reposnse. This should look like the interactive docs at developers.marvel
     var_dump(
  $data,
  json_encode($data)
