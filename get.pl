@@ -18,7 +18,6 @@ my $hash_amp = '&hash=';
 my $m = md5_hex($timestamp . $privatekey . $apikey);
 
 my $url = $gate . $param . $ts_amp . $timestamp . $api_amp . $apikey . $hash_amp . $m;
-          # ACME boomerang
 my $response = get $url;
 die 'Error getting $url' unless defined $response;
 
