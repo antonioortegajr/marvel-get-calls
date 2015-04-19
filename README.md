@@ -31,4 +31,4 @@ Python
 Perl
 
 
-These calls do not include any eexception handling.
+These calls do not include any exception handling.
